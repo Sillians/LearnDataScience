@@ -1,3 +1,6 @@
+## This notebook is an exact fork of the original,  with an added requirements.txt, which provides web hosting of executable notebooks on myBinder.org, click the icon below to launch.
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/learndatascience)
+
 Who
 ---
 
