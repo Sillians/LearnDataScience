@@ -1,4 +1,4 @@
-## This notebook is a clone of the original repo*, however these notebooks can be viewed, edited and executed in broswer with no dependencies, thanks to free hosting on mybinder.org
+## This notebook is an unmodified* fork of the original [nborwankar/LearnDataScience] (https://github.com/nborwankar/LearnDataScience) repo, however these notebooks can be viewed, edited and executed in browser with no dependencies, thanks to free hosting on mybinder.org
 
 ###Click the icon below to launch and run the notebooks in your browser.
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/learndatascience)
