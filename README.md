@@ -1,4 +1,5 @@
-## This notebook is an unedited fork of the original, with an added requirements.txt, to facilitate web hosting of editable and executable notebooks via myBinder.org. Click the icon below to launch and run the notebooks in your browser.
+## This notebook is a clone of the original note, but with additional of a requirements.txt, in to facilitate editable and executable web-hosted notebooks on myBinder.org. 
+Click the icon below to launch and run the notebooks in your browser.
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/n2itn/learndatascience)
 
 Who
